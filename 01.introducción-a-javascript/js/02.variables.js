@@ -15,3 +15,11 @@ console.log("boleana", boleana);
 //Varialbes de tipo Arreglo (Array)
 var colores = ['rojo','amarillo',boleana,numero]
 console.log("colores", colores);
+
+//Variables de tipo objeto (object: propiedad y el valor)
+var jugo = {
+    'ingrediente1' : 'fresa',
+    'ingrediente2' : 'mandarina',
+    'ingrediente3' : 'banano'
+}
+console.log('jugo', jugo);
