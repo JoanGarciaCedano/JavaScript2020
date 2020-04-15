@@ -4,5 +4,6 @@
 
 let firstName = 'Joan';
 let lastName = 'García';
+let fullName = firstName + ' ' + lastName;
 
-console.log(firstName + ' ' + lastName);
+console.log(fullName);
