@@ -12,6 +12,6 @@ console.log(fullName);
 
 let city = 'Tepic';
 let country = 'Mexico';
-let location = city + ' ' + country;
+let location = city + ', ' + country;
 
 console.log(location);
