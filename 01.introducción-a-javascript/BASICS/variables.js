@@ -1,4 +1,4 @@
 let petName = 'Hal';
-let petName = 'Spot';
+petName = 'Spot';
 
 console.log(petName);
