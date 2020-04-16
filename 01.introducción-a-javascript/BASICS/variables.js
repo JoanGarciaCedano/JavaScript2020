@@ -9,5 +9,5 @@ let test_ = 2
 let result = 3 + 4;
 
 //3. Variable names cannot be reserved keywords
-let let = 12;
-console.log(let);
+// let let = 12;
+// console.log(let);
