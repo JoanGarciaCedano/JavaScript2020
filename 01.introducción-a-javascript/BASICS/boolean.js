@@ -6,9 +6,10 @@
 // >= - greater than or equal to operator
 
 let temp = 31;
-let isFreezing = temp <= 32;
 
-console.log(isFreezing);
+if (temp <= 32) {
+    console.log('It is freezing outside!');
+}
 
 //Challenge area
 
