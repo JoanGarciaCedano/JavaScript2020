@@ -16,3 +16,17 @@ if (temp >= 60 && temp <= 90) {
 } else {
     console.log('Eh. Do what you want')
 }
+
+// Challenge Area
+
+let isGuestOneVegan = true
+let isGuestTwoVegan = false
+
+// Are both vegan? Only offer up vegan dishes
+if (isGuestOneVegan && isGuestTwoVegan) {
+    console.log('Only offer up vegan dishes.')
+}else if (isGuestOneVegan | isGuestTwoVegan){
+    console.log('Make sure to offer up some vegan options.')
+}else{
+    console.log('Offer up anything on the menue')
+}
