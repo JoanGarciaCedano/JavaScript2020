@@ -13,5 +13,8 @@ let square = function (num) {
     return result
 }
 
-console.log(square(3))
-console.log(square(10))
+let value = square(3)
+let otherValue = square(10)
+
+console.log(value)
+console.log(otherValue)
