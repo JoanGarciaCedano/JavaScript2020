@@ -1,5 +1,5 @@
 //Global ()
-  //Local ()
+  //Local (name)
     //Local
   //Local
 
@@ -8,7 +8,7 @@
 if (true) {
     //let name = 'Mike'
     if (true) {
-        name = 'Jen'
+        let name = 'Jen'
         console.log(name)
     }
 }
