@@ -16,7 +16,7 @@ let square = function(num){
 let result = square()
 console.log(result)
 
-//
+//Null as assined value
 let age = 27
 
 console.log(age)
