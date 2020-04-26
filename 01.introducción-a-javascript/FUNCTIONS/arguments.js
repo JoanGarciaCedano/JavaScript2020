@@ -14,3 +14,15 @@ let getScoreText = function (name = 'Anonymous', score = 0) {
 
 let scoreText = getScoreText('Andrew')
 console.log(scoreText)
+
+// Challenge Area
+// total, tipPercent, 
+let tip = function (total = 0, tipPercent = 0.1) {
+    return total * tipPercent
+}
+
+let resultTip = tip(100, 0.5)
+
+console.log("The tip was: $" + result)
+
+//mir-suic-slwfst- dan-rid-io- zul-lif-slw- jos-do-fst guz-dee-hrd
