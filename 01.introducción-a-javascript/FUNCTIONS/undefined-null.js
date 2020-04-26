@@ -12,4 +12,5 @@ let square = function(num){
     console.log(num)
 }
 
-square()
+let result = square()
+console.log(result)
